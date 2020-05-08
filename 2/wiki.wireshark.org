@@ -1,0 +1,21 @@
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 08 May 2020 10:53:41 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 235
+Connection: close
+Set-Cookie: __cfduid=d52cabae0dae74e51bc1f2a5b21bbf4801588935221; expires=Sun, 07-Jun-20 10:53:41 GMT; path=/; domain=.wireshark.org; HttpOnly; SameSite=Lax
+X-Frame-Options: SAMEORIGIN
+Location: https://wiki.wireshark.org/
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 5902a36f5a8b0579-LAX
+alt-svc: h3-27=":443"; ma=86400, h3-25=":443"; ma=86400, h3-24=":443"; ma=86400, h3-23=":443"; ma=86400
+cf-request-id: 029584799b000005798886b200000001
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://wiki.wireshark.org/">here</a>.</p>
+</body></html>
